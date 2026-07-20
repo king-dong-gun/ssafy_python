@@ -1,2 +1,7 @@
 # ssafy-python-basic
-싸피_파이썬 기초 문법
+
+SSAFY Python 기초 문법 및 학습 내용 정리
+
+## 📚 학습 목록
+
+- [Day 01 - Python 기초](./day_01/01_Programming.md)
